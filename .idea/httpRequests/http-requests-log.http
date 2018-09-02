@@ -1,0 +1,32 @@
+GET https://jsonplaceholder.typicode.com/todos/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-02T042934.200.json
+
+###
+
+GET https://google.com/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-02T042829.200.html
+
+###
+
+GET https://jsonplaceholder.typicode.com/todos
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-02T042752.200.json
+
+###
+
+GET https://google.com
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-02T042705.200.html
+
+###
+
