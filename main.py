@@ -6,7 +6,7 @@ import sys
 import glob
 import time
 
-com = None
+com = ''
 list_ports = []
 
 
