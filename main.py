@@ -73,6 +73,19 @@ def show_screen():
     pass
 
 
+def build_calling_screen():
+    pass
+
+
+def build_main_menu_screen():
+    pass
+
+
+def build_contact_menu_screen():
+    add_menu_item = "Add contact"
+    view_all_menu_item = "List all"
+
+
 if __name__ == "__main__":
     scan_port()
     if len(list_ports) == 0:
