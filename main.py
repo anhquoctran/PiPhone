@@ -5,7 +5,6 @@ from serial import SerialTimeoutException
 import sys
 import glob
 import time
-import os
 
 com = None
 list_ports = []
@@ -66,7 +65,11 @@ def send_command(cmd):
         print("Error while send packet")
 
 
-def receive_packet():
+def receive_serial_packet():
+    pass
+
+
+def show_screen():
     pass
 
 
